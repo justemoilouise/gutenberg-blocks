@@ -1,0 +1,25 @@
+.subscription-form {
+  margin: 16px 0;
+}
+
+.subscription-form__inputLabel {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.subscription-form__container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.subscription-form__button {
+  width: 25%;
+  border-radius: 0px;
+  background-color: #00C4CC;
+  font-weight: normal;
+}
+
+.subscription-form__button:hover {
+  background-color: #00D9E1;
+}
